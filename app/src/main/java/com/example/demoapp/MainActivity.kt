@@ -17,6 +17,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var click : String
 
     companion object {
+        
 
         private const val TAG = "MainActivity"
     }
